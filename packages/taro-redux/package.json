@@ -31,6 +31,6 @@
     "jest": "^23.1.0"
   },
   "dependencies": {
-    "@tarojs/utils": "1.2.20"
+    "@tarojs/utils": "1.3.46"
   }
 }
