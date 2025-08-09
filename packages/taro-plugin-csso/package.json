@@ -16,6 +16,6 @@
   "author": "luckyadam",
   "license": "MIT",
   "dependencies": {
-    "csso": "^3.5.0"
+    "csso": "^3.5.1"
   }
 }
