@@ -64,7 +64,7 @@
     "url-loader": "1.0.1",
     "webpack": "4.14.0",
     "webpack-chain": "4.9.0",
-    "webpack-dev-server": "3.1.14",
+    "webpack-dev-server": "4.8.0",
     "webpack-format-messages": "2.0.3"
   },
   "devDependencies": {
